@@ -3,3 +3,5 @@ You can control Raspberry Pi GPIO Pins with a bot created in Telegram App.From a
 The python module 'telepot'. Telepot helps you build applications for Telegram Bot API. It can be installed with the command "pip install telepot".
 In telegram creating a bot is very easy.For creating your own bot, visit https://core.telegram.org/bots using BotFather in Telegram App.
 After creating bot, it will generate a unique API TOKEN which you need to paste it in the code.
+Also by using web scraping technique we can access news through the bot just by messaging it for "news".The python modules used for scraping are "requests" and "BeautifulSoup"
+this way we can read the news and trends of the day through telegram app chatbot
